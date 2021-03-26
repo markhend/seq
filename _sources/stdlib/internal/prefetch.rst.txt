@@ -1,0 +1,9 @@
+.. seq:module:: internal.prefetch
+
+:seq:mod:`internal.prefetch`
+----------------------------
+
+Source code: `internal/prefetch.seq <https://github.com/seq-lang/seq/blob/master/stdlib/internal/prefetch.seq>`_
+
+
+
